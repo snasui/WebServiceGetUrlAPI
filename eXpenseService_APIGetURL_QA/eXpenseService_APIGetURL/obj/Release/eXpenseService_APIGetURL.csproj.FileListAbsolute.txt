@@ -1,0 +1,6 @@
+D:\Test\WebApp\eXpenseService_APIGetURL_QA\eXpenseService_APIGetURL\bin\eXpenseService_APIGetURL.dll.config
+D:\Test\WebApp\eXpenseService_APIGetURL_QA\eXpenseService_APIGetURL\bin\eXpenseService_APIGetURL.dll
+D:\Test\WebApp\eXpenseService_APIGetURL_QA\eXpenseService_APIGetURL\bin\eXpenseService_APIGetURL.pdb
+D:\Test\WebApp\eXpenseService_APIGetURL_QA\eXpenseService_APIGetURL\obj\Release\eXpenseService_APIGetURL.csprojResolveAssemblyReference.cache
+D:\Test\WebApp\eXpenseService_APIGetURL_QA\eXpenseService_APIGetURL\obj\Release\eXpenseService_APIGetURL.dll
+D:\Test\WebApp\eXpenseService_APIGetURL_QA\eXpenseService_APIGetURL\obj\Release\eXpenseService_APIGetURL.pdb
